@@ -1,0 +1,17 @@
+{
+    "creating_device": "WGD02RTI1197",
+    "encryption_algo": "aes-256-cbc",
+    "have_keyfile": 1,
+    "kdf_algo": "pbkdf2",
+    "kdf_iter": 100000,
+    "last_modified_device": "WGD02RTI1197",
+    "last_modified_time": 1631896963,
+    "last_password_changed_time": 1631896552,
+    "last_password_changing_device": "WGD02RTI1197",
+    "vault_att_count": 1,
+    "vault_icon": "vault/v6",
+    "vault_items_count": 7,
+    "vault_name": "zzz",
+    "vault_uuid": "c205c609-6ae0-4345-88be-1e5564bd8204",
+    "version": 6
+}

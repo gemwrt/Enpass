@@ -1,0 +1,17 @@
+{
+    "creating_device": "WGD02RTI1197",
+    "encryption_algo": "aes-256-cbc",
+    "have_keyfile": 1,
+    "kdf_algo": "pbkdf2",
+    "kdf_iter": 100000,
+    "last_modified_device": "WGD02RTI1197",
+    "last_modified_time": 1631896837,
+    "last_password_changed_time": 1631784500,
+    "last_password_changing_device": "WGD02RTI1197",
+    "vault_att_count": 1,
+    "vault_icon": "vault/v8",
+    "vault_items_count": 7,
+    "vault_name": "chains",
+    "vault_uuid": "4b28a8cc-63cd-4408-8603-b90201d233aa",
+    "version": 6
+}
